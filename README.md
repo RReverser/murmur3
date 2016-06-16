@@ -11,7 +11,7 @@ Bonus
 
 Javascript does not contain 64 bit operations....
 
-Instead, the standard complies to a 64 bit floating point representation that gives 58 bits of precision in integers.
+Instead, the standard complies to a 64 bit floating point representation that gives 53 bits of precision in integers.
 
 To overcome this, I had to fill in these gaps. As such, I have allowed these operations to be accessed from the `murmur` object.
 
